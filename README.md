@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**abdoa123/abdoa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mostafa20160424/mostafa20160424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## :pencil: Education 
 - faculty of comuter and Information - Helwan University  2016 - 2020
-- Department Major Computer Science Minor Decision supprot
+- Department Major Infromation System Minor Computer Science
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Software Engineer
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-Software engineering at Al Amin Technological Systems
+Software Engineer at Al Amin Technological Systems
 
 Full Stack Developer(NodeJS, ReactJS) at MedcloudEg
 ```
